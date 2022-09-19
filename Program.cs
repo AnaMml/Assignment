@@ -1,12 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Assigment.Controller;
 using Assigment.Models;
-using Assigment.Controller;
 
 Console.Write("LimitX = ");
 int LimitX = Int32.Parse(Console.ReadLine());
 
-Console.Write("LimitX = ");
+Console.Write("LimitY = ");
 int LimitY = Int32.Parse(Console.ReadLine());
 
 int[] instr = new int[3];
