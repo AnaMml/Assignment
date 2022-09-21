@@ -14,7 +14,7 @@ namespace Assigment.Controller
         private readonly Map _map;
         private readonly Rover _rover;
         private readonly Log _logFile;
-        private readonly IPrinterCreator printerFactory;
+        private readonly IPrinterCreator _printerFactory;
 
         public ProgramManager(Map map, Log logFile, int i)
         {
@@ -23,9 +23,9 @@ namespace Assigment.Controller
             _logFile = logFile;
 
             if (i == 1)
-                printerFactory = new PrinterConsoleCreator();
+                _printerFactory = new PrinterConsoleCreator();
             else
-                printerFactory = new PrinterTxtCreator();
+                _printerFactory = new PrinterTxtCreator();
         }
 
         public void StartProgram()
@@ -34,34 +34,34 @@ namespace Assigment.Controller
             _logFile.LogValues("Program start", "START");
         }
 
-        public int[] GetInstruction()
+        public Position GetInstruction()
         {
             ConsoleKey ch = Console.ReadKey().Key;
             _logFile.LogValues(ch.ToString(), "INSTR.");
             switch (ch)
             {                
                 case ConsoleKey.UpArrow:
-                    return new int[] { -1, 0, 24 }; // {x, y, orientation}
+                    return new Position(-1, 0, 24 ); // {x, y, orientation}
                 case ConsoleKey.DownArrow:
-                    return new int[] { 1, 0, 25 };
+                    return new Position ( 1, 0, 25 );
                 case ConsoleKey.LeftArrow:
-                    return new int[] { 0, -1, 27 };                  
+                    return new Position ( 0, -1, 27 );                  
                 case ConsoleKey.RightArrow:
-                    return new int[] { 0, 1, 26 };                        
+                    return new Position ( 0, 1, 26 );                        
                 default:
-                    return new int[] {0,0,0};
+                    return new Position(0,0,0);
             }
         }
 
 
-        public string FollowUpInstruction(int[] instr)
+        public string FollowUpInstruction(Position newPosition)
         {
             _map.ReloadMap();
-            if (_rover.GetOrientation() == instr[2])
+            if (_rover.GetOrientation() == newPosition.orientation)
             {
-                if(VerifyInstruction(instr[0], instr[1]) == true)
+                if(VerifyInstruction(newPosition.positionX, newPosition.positionY) == true)
                 {
-                    _rover.Move(instr[0], instr[1]);
+                    _rover.Move(newPosition.positionX, newPosition.positionY);
                     _logFile.LogValues("New values: map(x,y) = map(" + _rover.GetPositionX() + "," + _rover.GetPositionY() + ")", "MOVE");
                 }
                 else
@@ -71,7 +71,7 @@ namespace Assigment.Controller
             }
             else
             {
-                _rover.SetOrientation(instr[2]);
+                _rover.SetOrientation(newPosition.orientation);
                 _logFile.LogValues("Change orientation: " + _rover.GetOrientation(), "CHG ORIENT.");
             }
             return "SUCCES";
@@ -82,7 +82,7 @@ namespace Assigment.Controller
             //Console.Clear();
             _map.UpdateMap(_rover.GetPositionX(), _rover.GetPositionY(), _rover.GetOrientation());
             _logFile.LogValues("Update map with obj positions: (x, y, orientation) = (" + _rover.GetPositionX()+","+ _rover.GetPositionY()+","+_rover.GetOrientation()+")", "CHANGE ORT.");
-            printerFactory.CreatePrinter().Print(_map);  
+            _printerFactory.CreatePrinter().Print(_map);  
             _logFile.LogValues("PrintMap", "CHANGE ORT. ");
 
         }

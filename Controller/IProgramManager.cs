@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Assignment.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,9 +10,9 @@ namespace Assigment.Controller
     public interface IProgramManager
     {
         void StartProgram();
-        int[] GetInstruction();
+        Position GetInstruction();
         bool VerifyInstruction(int x, int y);
-        string FollowUpInstruction(int[] instructionId);
+        string FollowUpInstruction(Position instructionId);
         void Show();
         void ExitProgram();
         void ShowError(string errorName);
