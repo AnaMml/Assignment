@@ -9,9 +9,9 @@ Console.Write("LimitY = ");
 int LimitY = Int32.Parse(Console.ReadLine());
 
 int[] instr = new int[3];
-IMap map = new Map(LimitX, LimitY);
-ILog logFile = new Log("D:\\Assignment\\logFile.txt"); 
-IProgramManager pm = new ProgramManager(map, logFile);
+Map map = new Map(LimitX, LimitY);
+Log logFile = new Log("D:\\Assignment\\logFile.txt"); 
+IProgramManager pm = new ProgramManager(map, logFile,2);
 pm.StartProgram();
 
 

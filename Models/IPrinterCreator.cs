@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assigment.Models
+namespace Assignment.Models
 {
-    public interface ILog
+    internal interface IPrinterCreator
     {
-        void WriteInFile();
-        void LogValues(string message, string type);
+        IPrinter CreatePrinter();
     }
 }

@@ -1,4 +1,5 @@
 ﻿using Assigment.Models;
+using Assignment.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,15 +11,21 @@ namespace Assigment.Controller
 {
     public class ProgramManager : IProgramManager
     {
-        private readonly IMap _map;
-        private readonly IRover _rover;
-        private readonly ILog _logFile;
+        private readonly Map _map;
+        private readonly Rover _rover;
+        private readonly Log _logFile;
+        private readonly IPrinterCreator printerFactory;
 
-        public ProgramManager(IMap map, ILog logFile)
+        public ProgramManager(Map map, Log logFile, int i)
         {
-            this._map = map;
-            this._rover = new Rover(map.GetNoRows(),map.GetNoCols());
-            this._logFile = logFile;
+            _map = map;
+            _rover = new Rover(map.GetNoRows(),map.GetNoCols());
+            _logFile = logFile;
+
+            if (i == 1)
+                printerFactory = new PrinterConsoleCreator();
+            else
+                printerFactory = new PrinterTxtCreator();
         }
 
         public void StartProgram()
@@ -72,10 +79,10 @@ namespace Assigment.Controller
 
         public void Show()
         {
-            Console.Clear();
+            //Console.Clear();
             _map.UpdateMap(_rover.GetPositionX(), _rover.GetPositionY(), _rover.GetOrientation());
             _logFile.LogValues("Update map with obj positions: (x, y, orientation) = (" + _rover.GetPositionX()+","+ _rover.GetPositionY()+","+_rover.GetOrientation()+")", "CHANGE ORT.");
-            _map.PrintMap();
+            printerFactory.CreatePrinter().Print(_map);  
             _logFile.LogValues("PrintMap", "CHANGE ORT. ");
 
         }

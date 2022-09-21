@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assigment.Models
 {
-    internal class Rover : IRover
+    internal class Rover
     {
         int PositionX {get;set;}
         int PositionY {get;set;}
@@ -52,48 +52,6 @@ namespace Assigment.Models
             return this.Orientation;
         }
 
-        
-        //public void Move(int movementType)
-        //{
-        //    switch (movementType) 
-        //    {
-        //        case 24:
-        //            MoveUp();
-        //            break;
-        //        case 25:
-        //            MoveDown();
-        //            break;
-        //        case 26:
-        //            MoveRight();
-        //            break;
-        //        case 27:
-        //            MoveLeft();
-        //            break;
-        //        default:
-        //            break;                
-        //    }
-        //}
-
-        //public void MoveUp()
-        //{
-        //    this.PositionX--;
-        //}
-
-        //public void MoveDown()
-        //{
-        //    this.PositionX++;
-        //}
-
-        //public void MoveLeft()
-        //{
-        //    this.PositionY--;
-        //}
-
-        //public void MoveRight()
-        //{
-        //    this.PositionY++;
-        //}
-
         public void Move(int x, int y)
         {
             PositionX += x;
@@ -102,3 +60,5 @@ namespace Assigment.Models
 
     }
 }
+
+       

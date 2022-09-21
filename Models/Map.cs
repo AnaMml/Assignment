@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assigment.Models
 {
-    internal class Map : IMap
+    public class Map 
     {
         public int NoRows {get;set;}
         public int NoCols {get;set;} 
@@ -33,18 +33,7 @@ namespace Assigment.Models
                 for (int j = 0; j < NoCols; j++)
                     table[i, j] = 48;
         }
-        public void PrintMap()
-        {
-            for (int i = 0; i < NoRows; i++)
-            {
-                for (int j = 0; j < NoCols; j++)
-                {
-                    Console.Write("{0} ",  (char)table[i, j]);
-                }
-                Console.WriteLine("");
-            }
-            Console.Write("");
-        }
+    
 
         public void ReloadMap()
         {

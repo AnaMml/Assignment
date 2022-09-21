@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assigment.Models
 {
-    public class Log : ILog
+    public class Log 
     {
         private string filePath;
         private string message;
