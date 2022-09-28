@@ -666,3 +666,719 @@
 21.09.2022 11:52:45 : MOVE -> New values: map(x,y) = map(12,0)
 21.09.2022 11:52:45 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (12,0,25)
 21.09.2022 11:52:45 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:21 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (7,4,29)
+21.09.2022 11:55:21 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:21 : START -> Program start
+21.09.2022 11:55:24 : INSTR. -> LeftArrow
+21.09.2022 11:55:24 : CHG ORIENT. -> Change orientation: 27
+21.09.2022 11:55:24 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (7,4,27)
+21.09.2022 11:55:24 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:24 : INSTR. -> LeftArrow
+21.09.2022 11:55:24 : VERIFY -> Verify instr.: (x, y) = (7,4)
+21.09.2022 11:55:24 : MOVE -> New values: map(x,y) = map(7,3)
+21.09.2022 11:55:24 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (7,3,27)
+21.09.2022 11:55:24 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:24 : INSTR. -> LeftArrow
+21.09.2022 11:55:24 : VERIFY -> Verify instr.: (x, y) = (7,3)
+21.09.2022 11:55:24 : MOVE -> New values: map(x,y) = map(7,2)
+21.09.2022 11:55:24 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (7,2,27)
+21.09.2022 11:55:24 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:24 : INSTR. -> LeftArrow
+21.09.2022 11:55:24 : VERIFY -> Verify instr.: (x, y) = (7,2)
+21.09.2022 11:55:24 : MOVE -> New values: map(x,y) = map(7,1)
+21.09.2022 11:55:24 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (7,1,27)
+21.09.2022 11:55:24 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:24 : INSTR. -> UpArrow
+21.09.2022 11:55:24 : CHG ORIENT. -> Change orientation: 24
+21.09.2022 11:55:24 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (7,1,24)
+21.09.2022 11:55:24 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:24 : INSTR. -> UpArrow
+21.09.2022 11:55:24 : VERIFY -> Verify instr.: (x, y) = (7,1)
+21.09.2022 11:55:24 : MOVE -> New values: map(x,y) = map(6,1)
+21.09.2022 11:55:24 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (6,1,24)
+21.09.2022 11:55:25 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:25 : INSTR. -> UpArrow
+21.09.2022 11:55:25 : VERIFY -> Verify instr.: (x, y) = (6,1)
+21.09.2022 11:55:25 : MOVE -> New values: map(x,y) = map(5,1)
+21.09.2022 11:55:25 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (5,1,24)
+21.09.2022 11:55:25 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:25 : INSTR. -> UpArrow
+21.09.2022 11:55:25 : VERIFY -> Verify instr.: (x, y) = (5,1)
+21.09.2022 11:55:25 : MOVE -> New values: map(x,y) = map(4,1)
+21.09.2022 11:55:25 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (4,1,24)
+21.09.2022 11:55:25 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:25 : INSTR. -> UpArrow
+21.09.2022 11:55:25 : VERIFY -> Verify instr.: (x, y) = (4,1)
+21.09.2022 11:55:25 : MOVE -> New values: map(x,y) = map(3,1)
+21.09.2022 11:55:25 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (3,1,24)
+21.09.2022 11:55:25 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:25 : INSTR. -> UpArrow
+21.09.2022 11:55:25 : VERIFY -> Verify instr.: (x, y) = (3,1)
+21.09.2022 11:55:25 : MOVE -> New values: map(x,y) = map(2,1)
+21.09.2022 11:55:25 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,1,24)
+21.09.2022 11:55:25 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:25 : INSTR. -> RightArrow
+21.09.2022 11:55:25 : CHG ORIENT. -> Change orientation: 26
+21.09.2022 11:55:25 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,1,26)
+21.09.2022 11:55:25 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:26 : INSTR. -> RightArrow
+21.09.2022 11:55:26 : VERIFY -> Verify instr.: (x, y) = (2,1)
+21.09.2022 11:55:26 : MOVE -> New values: map(x,y) = map(2,2)
+21.09.2022 11:55:26 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,2,26)
+21.09.2022 11:55:26 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:26 : INSTR. -> RightArrow
+21.09.2022 11:55:26 : VERIFY -> Verify instr.: (x, y) = (2,2)
+21.09.2022 11:55:26 : MOVE -> New values: map(x,y) = map(2,3)
+21.09.2022 11:55:26 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,3,26)
+21.09.2022 11:55:26 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:26 : INSTR. -> RightArrow
+21.09.2022 11:55:26 : VERIFY -> Verify instr.: (x, y) = (2,3)
+21.09.2022 11:55:26 : MOVE -> New values: map(x,y) = map(2,4)
+21.09.2022 11:55:26 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,4,26)
+21.09.2022 11:55:26 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:26 : INSTR. -> RightArrow
+21.09.2022 11:55:26 : VERIFY -> Verify instr.: (x, y) = (2,4)
+21.09.2022 11:55:26 : MOVE -> New values: map(x,y) = map(2,5)
+21.09.2022 11:55:26 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,5,26)
+21.09.2022 11:55:26 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:26 : INSTR. -> RightArrow
+21.09.2022 11:55:26 : VERIFY -> Verify instr.: (x, y) = (2,5)
+21.09.2022 11:55:26 : MOVE -> New values: map(x,y) = map(2,6)
+21.09.2022 11:55:26 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,6,26)
+21.09.2022 11:55:26 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:26 : INSTR. -> RightArrow
+21.09.2022 11:55:26 : VERIFY -> Verify instr.: (x, y) = (2,6)
+21.09.2022 11:55:26 : MOVE -> New values: map(x,y) = map(2,7)
+21.09.2022 11:55:26 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,7,26)
+21.09.2022 11:55:26 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:27 : INSTR. -> RightArrow
+21.09.2022 11:55:27 : VERIFY -> Verify instr.: (x, y) = (2,7)
+21.09.2022 11:55:27 : MOVE -> New values: map(x,y) = map(2,8)
+21.09.2022 11:55:27 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,8,26)
+21.09.2022 11:55:27 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:27 : INSTR. -> RightArrow
+21.09.2022 11:55:27 : VERIFY -> Verify instr.: (x, y) = (2,8)
+21.09.2022 11:55:27 : MOVE -> New values: map(x,y) = map(2,9)
+21.09.2022 11:55:27 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,9,26)
+21.09.2022 11:55:27 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:27 : INSTR. -> RightArrow
+21.09.2022 11:55:27 : VERIFY -> Verify instr.: (x, y) = (2,9)
+21.09.2022 11:55:27 : MOVE -> New values: map(x,y) = map(2,10)
+21.09.2022 11:55:27 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,10,26)
+21.09.2022 11:55:27 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:27 : INSTR. -> RightArrow
+21.09.2022 11:55:27 : VERIFY -> Verify instr.: (x, y) = (2,10)
+21.09.2022 11:55:27 : MOVE -> New values: map(x,y) = map(2,11)
+21.09.2022 11:55:27 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,11,26)
+21.09.2022 11:55:27 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:28 : INSTR. -> RightArrow
+21.09.2022 11:55:28 : VERIFY -> Verify instr.: (x, y) = (2,11)
+21.09.2022 11:55:28 : MOVE -> New values: map(x,y) = map(2,12)
+21.09.2022 11:55:28 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,12,26)
+21.09.2022 11:55:28 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:28 : INSTR. -> RightArrow
+21.09.2022 11:55:28 : VERIFY -> Verify instr.: (x, y) = (2,12)
+21.09.2022 11:55:28 : MOVE -> New values: map(x,y) = map(2,13)
+21.09.2022 11:55:28 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,13,26)
+21.09.2022 11:55:28 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:28 : INSTR. -> RightArrow
+21.09.2022 11:55:28 : VERIFY -> Verify instr.: (x, y) = (2,13)
+21.09.2022 11:55:28 : MOVE -> New values: map(x,y) = map(2,14)
+21.09.2022 11:55:28 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,14,26)
+21.09.2022 11:55:28 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:28 : INSTR. -> DownArrow
+21.09.2022 11:55:28 : CHG ORIENT. -> Change orientation: 25
+21.09.2022 11:55:28 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,14,25)
+21.09.2022 11:55:28 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:29 : INSTR. -> DownArrow
+21.09.2022 11:55:29 : VERIFY -> Verify instr.: (x, y) = (2,14)
+21.09.2022 11:55:29 : MOVE -> New values: map(x,y) = map(3,14)
+21.09.2022 11:55:29 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (3,14,25)
+21.09.2022 11:55:29 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:29 : INSTR. -> DownArrow
+21.09.2022 11:55:29 : VERIFY -> Verify instr.: (x, y) = (3,14)
+21.09.2022 11:55:29 : MOVE -> New values: map(x,y) = map(4,14)
+21.09.2022 11:55:29 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (4,14,25)
+21.09.2022 11:55:29 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:29 : INSTR. -> DownArrow
+21.09.2022 11:55:29 : VERIFY -> Verify instr.: (x, y) = (4,14)
+21.09.2022 11:55:29 : MOVE -> New values: map(x,y) = map(5,14)
+21.09.2022 11:55:29 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (5,14,25)
+21.09.2022 11:55:29 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:29 : INSTR. -> DownArrow
+21.09.2022 11:55:29 : VERIFY -> Verify instr.: (x, y) = (5,14)
+21.09.2022 11:55:29 : MOVE -> New values: map(x,y) = map(6,14)
+21.09.2022 11:55:29 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (6,14,25)
+21.09.2022 11:55:29 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:29 : INSTR. -> DownArrow
+21.09.2022 11:55:29 : VERIFY -> Verify instr.: (x, y) = (6,14)
+21.09.2022 11:55:29 : MOVE -> New values: map(x,y) = map(7,14)
+21.09.2022 11:55:29 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (7,14,25)
+21.09.2022 11:55:29 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:29 : INSTR. -> DownArrow
+21.09.2022 11:55:29 : VERIFY -> Verify instr.: (x, y) = (7,14)
+21.09.2022 11:55:29 : MOVE -> New values: map(x,y) = map(8,14)
+21.09.2022 11:55:29 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (8,14,25)
+21.09.2022 11:55:29 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:30 : INSTR. -> DownArrow
+21.09.2022 11:55:30 : VERIFY -> Verify instr.: (x, y) = (8,14)
+21.09.2022 11:55:30 : MOVE -> New values: map(x,y) = map(9,14)
+21.09.2022 11:55:30 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (9,14,25)
+21.09.2022 11:55:30 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:30 : INSTR. -> DownArrow
+21.09.2022 11:55:30 : VERIFY -> Verify instr.: (x, y) = (9,14)
+21.09.2022 11:55:30 : MOVE -> New values: map(x,y) = map(10,14)
+21.09.2022 11:55:30 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (10,14,25)
+21.09.2022 11:55:30 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:30 : INSTR. -> DownArrow
+21.09.2022 11:55:30 : VERIFY -> Verify instr.: (x, y) = (10,14)
+21.09.2022 11:55:30 : MOVE -> New values: map(x,y) = map(11,14)
+21.09.2022 11:55:30 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (11,14,25)
+21.09.2022 11:55:30 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:30 : INSTR. -> DownArrow
+21.09.2022 11:55:30 : VERIFY -> Verify instr.: (x, y) = (11,14)
+21.09.2022 11:55:30 : MOVE -> New values: map(x,y) = map(12,14)
+21.09.2022 11:55:30 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (12,14,25)
+21.09.2022 11:55:30 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:30 : INSTR. -> DownArrow
+21.09.2022 11:55:30 : VERIFY -> Verify instr.: (x, y) = (12,14)
+21.09.2022 11:55:30 : MOVE -> New values: map(x,y) = map(13,14)
+21.09.2022 11:55:30 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (13,14,25)
+21.09.2022 11:55:30 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:30 : INSTR. -> DownArrow
+21.09.2022 11:55:30 : VERIFY -> Verify instr.: (x, y) = (13,14)
+21.09.2022 11:55:30 : MOVE -> New values: map(x,y) = map(14,14)
+21.09.2022 11:55:30 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (14,14,25)
+21.09.2022 11:55:31 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:31 : INSTR. -> DownArrow
+21.09.2022 11:55:31 : VERIFY -> Verify instr.: (x, y) = (14,14)
+21.09.2022 11:55:31 : ERROR -> Out Of Bound
+21.09.2022 11:55:31 : INSTR. -> DownArrow
+21.09.2022 11:55:31 : VERIFY -> Verify instr.: (x, y) = (14,14)
+21.09.2022 11:55:31 : ERROR -> Out Of Bound
+21.09.2022 11:55:31 : INSTR. -> DownArrow
+21.09.2022 11:55:31 : VERIFY -> Verify instr.: (x, y) = (14,14)
+21.09.2022 11:55:31 : ERROR -> Out Of Bound
+21.09.2022 11:55:31 : INSTR. -> DownArrow
+21.09.2022 11:55:31 : VERIFY -> Verify instr.: (x, y) = (14,14)
+21.09.2022 11:55:31 : ERROR -> Out Of Bound
+21.09.2022 11:55:31 : INSTR. -> DownArrow
+21.09.2022 11:55:31 : VERIFY -> Verify instr.: (x, y) = (14,14)
+21.09.2022 11:55:31 : ERROR -> Out Of Bound
+21.09.2022 11:55:31 : INSTR. -> DownArrow
+21.09.2022 11:55:31 : VERIFY -> Verify instr.: (x, y) = (14,14)
+21.09.2022 11:55:31 : ERROR -> Out Of Bound
+21.09.2022 11:55:32 : INSTR. -> LeftArrow
+21.09.2022 11:55:32 : CHG ORIENT. -> Change orientation: 27
+21.09.2022 11:55:32 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (14,14,27)
+21.09.2022 11:55:32 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:32 : INSTR. -> LeftArrow
+21.09.2022 11:55:32 : VERIFY -> Verify instr.: (x, y) = (14,14)
+21.09.2022 11:55:32 : MOVE -> New values: map(x,y) = map(14,13)
+21.09.2022 11:55:32 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (14,13,27)
+21.09.2022 11:55:32 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:32 : INSTR. -> LeftArrow
+21.09.2022 11:55:32 : VERIFY -> Verify instr.: (x, y) = (14,13)
+21.09.2022 11:55:32 : MOVE -> New values: map(x,y) = map(14,12)
+21.09.2022 11:55:32 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (14,12,27)
+21.09.2022 11:55:32 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:32 : INSTR. -> LeftArrow
+21.09.2022 11:55:32 : VERIFY -> Verify instr.: (x, y) = (14,12)
+21.09.2022 11:55:32 : MOVE -> New values: map(x,y) = map(14,11)
+21.09.2022 11:55:32 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (14,11,27)
+21.09.2022 11:55:32 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:32 : INSTR. -> LeftArrow
+21.09.2022 11:55:32 : VERIFY -> Verify instr.: (x, y) = (14,11)
+21.09.2022 11:55:32 : MOVE -> New values: map(x,y) = map(14,10)
+21.09.2022 11:55:32 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (14,10,27)
+21.09.2022 11:55:32 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:32 : INSTR. -> LeftArrow
+21.09.2022 11:55:32 : VERIFY -> Verify instr.: (x, y) = (14,10)
+21.09.2022 11:55:32 : MOVE -> New values: map(x,y) = map(14,9)
+21.09.2022 11:55:32 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (14,9,27)
+21.09.2022 11:55:33 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:33 : INSTR. -> LeftArrow
+21.09.2022 11:55:33 : VERIFY -> Verify instr.: (x, y) = (14,9)
+21.09.2022 11:55:33 : MOVE -> New values: map(x,y) = map(14,8)
+21.09.2022 11:55:33 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (14,8,27)
+21.09.2022 11:55:33 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:33 : INSTR. -> LeftArrow
+21.09.2022 11:55:33 : VERIFY -> Verify instr.: (x, y) = (14,8)
+21.09.2022 11:55:33 : MOVE -> New values: map(x,y) = map(14,7)
+21.09.2022 11:55:33 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (14,7,27)
+21.09.2022 11:55:33 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:33 : INSTR. -> LeftArrow
+21.09.2022 11:55:33 : VERIFY -> Verify instr.: (x, y) = (14,7)
+21.09.2022 11:55:33 : MOVE -> New values: map(x,y) = map(14,6)
+21.09.2022 11:55:33 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (14,6,27)
+21.09.2022 11:55:33 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:33 : INSTR. -> LeftArrow
+21.09.2022 11:55:33 : VERIFY -> Verify instr.: (x, y) = (14,6)
+21.09.2022 11:55:33 : MOVE -> New values: map(x,y) = map(14,5)
+21.09.2022 11:55:33 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (14,5,27)
+21.09.2022 11:55:33 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:33 : INSTR. -> LeftArrow
+21.09.2022 11:55:33 : VERIFY -> Verify instr.: (x, y) = (14,5)
+21.09.2022 11:55:33 : MOVE -> New values: map(x,y) = map(14,4)
+21.09.2022 11:55:33 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (14,4,27)
+21.09.2022 11:55:33 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:33 : INSTR. -> LeftArrow
+21.09.2022 11:55:33 : VERIFY -> Verify instr.: (x, y) = (14,4)
+21.09.2022 11:55:33 : MOVE -> New values: map(x,y) = map(14,3)
+21.09.2022 11:55:33 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (14,3,27)
+21.09.2022 11:55:34 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:34 : INSTR. -> LeftArrow
+21.09.2022 11:55:34 : VERIFY -> Verify instr.: (x, y) = (14,3)
+21.09.2022 11:55:34 : MOVE -> New values: map(x,y) = map(14,2)
+21.09.2022 11:55:34 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (14,2,27)
+21.09.2022 11:55:34 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:34 : INSTR. -> LeftArrow
+21.09.2022 11:55:34 : VERIFY -> Verify instr.: (x, y) = (14,2)
+21.09.2022 11:55:34 : MOVE -> New values: map(x,y) = map(14,1)
+21.09.2022 11:55:34 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (14,1,27)
+21.09.2022 11:55:34 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:34 : INSTR. -> LeftArrow
+21.09.2022 11:55:34 : VERIFY -> Verify instr.: (x, y) = (14,1)
+21.09.2022 11:55:34 : MOVE -> New values: map(x,y) = map(14,0)
+21.09.2022 11:55:34 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (14,0,27)
+21.09.2022 11:55:34 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:34 : INSTR. -> LeftArrow
+21.09.2022 11:55:34 : VERIFY -> Verify instr.: (x, y) = (14,0)
+21.09.2022 11:55:34 : ERROR -> Out Of Bound
+21.09.2022 11:55:34 : INSTR. -> LeftArrow
+21.09.2022 11:55:34 : VERIFY -> Verify instr.: (x, y) = (14,0)
+21.09.2022 11:55:34 : ERROR -> Out Of Bound
+21.09.2022 11:55:34 : INSTR. -> UpArrow
+21.09.2022 11:55:34 : CHG ORIENT. -> Change orientation: 24
+21.09.2022 11:55:34 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (14,0,24)
+21.09.2022 11:55:35 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:35 : INSTR. -> UpArrow
+21.09.2022 11:55:35 : VERIFY -> Verify instr.: (x, y) = (14,0)
+21.09.2022 11:55:35 : MOVE -> New values: map(x,y) = map(13,0)
+21.09.2022 11:55:35 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (13,0,24)
+21.09.2022 11:55:35 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:35 : INSTR. -> UpArrow
+21.09.2022 11:55:35 : VERIFY -> Verify instr.: (x, y) = (13,0)
+21.09.2022 11:55:35 : MOVE -> New values: map(x,y) = map(12,0)
+21.09.2022 11:55:35 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (12,0,24)
+21.09.2022 11:55:35 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:35 : INSTR. -> UpArrow
+21.09.2022 11:55:35 : VERIFY -> Verify instr.: (x, y) = (12,0)
+21.09.2022 11:55:35 : MOVE -> New values: map(x,y) = map(11,0)
+21.09.2022 11:55:35 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (11,0,24)
+21.09.2022 11:55:35 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:35 : INSTR. -> UpArrow
+21.09.2022 11:55:35 : VERIFY -> Verify instr.: (x, y) = (11,0)
+21.09.2022 11:55:35 : MOVE -> New values: map(x,y) = map(10,0)
+21.09.2022 11:55:35 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (10,0,24)
+21.09.2022 11:55:35 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:35 : INSTR. -> UpArrow
+21.09.2022 11:55:35 : VERIFY -> Verify instr.: (x, y) = (10,0)
+21.09.2022 11:55:35 : MOVE -> New values: map(x,y) = map(9,0)
+21.09.2022 11:55:35 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (9,0,24)
+21.09.2022 11:55:35 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:36 : INSTR. -> UpArrow
+21.09.2022 11:55:36 : VERIFY -> Verify instr.: (x, y) = (9,0)
+21.09.2022 11:55:36 : MOVE -> New values: map(x,y) = map(8,0)
+21.09.2022 11:55:36 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (8,0,24)
+21.09.2022 11:55:36 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:36 : INSTR. -> UpArrow
+21.09.2022 11:55:36 : VERIFY -> Verify instr.: (x, y) = (8,0)
+21.09.2022 11:55:36 : MOVE -> New values: map(x,y) = map(7,0)
+21.09.2022 11:55:36 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (7,0,24)
+21.09.2022 11:55:36 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:36 : INSTR. -> UpArrow
+21.09.2022 11:55:36 : VERIFY -> Verify instr.: (x, y) = (7,0)
+21.09.2022 11:55:36 : MOVE -> New values: map(x,y) = map(6,0)
+21.09.2022 11:55:36 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (6,0,24)
+21.09.2022 11:55:36 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:36 : INSTR. -> UpArrow
+21.09.2022 11:55:36 : VERIFY -> Verify instr.: (x, y) = (6,0)
+21.09.2022 11:55:36 : MOVE -> New values: map(x,y) = map(5,0)
+21.09.2022 11:55:36 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (5,0,24)
+21.09.2022 11:55:36 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:36 : INSTR. -> UpArrow
+21.09.2022 11:55:36 : VERIFY -> Verify instr.: (x, y) = (5,0)
+21.09.2022 11:55:36 : MOVE -> New values: map(x,y) = map(4,0)
+21.09.2022 11:55:36 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (4,0,24)
+21.09.2022 11:55:36 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:36 : INSTR. -> UpArrow
+21.09.2022 11:55:36 : VERIFY -> Verify instr.: (x, y) = (4,0)
+21.09.2022 11:55:36 : MOVE -> New values: map(x,y) = map(3,0)
+21.09.2022 11:55:36 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (3,0,24)
+21.09.2022 11:55:36 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:36 : INSTR. -> UpArrow
+21.09.2022 11:55:36 : VERIFY -> Verify instr.: (x, y) = (3,0)
+21.09.2022 11:55:36 : MOVE -> New values: map(x,y) = map(2,0)
+21.09.2022 11:55:36 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,0,24)
+21.09.2022 11:55:37 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:37 : INSTR. -> UpArrow
+21.09.2022 11:55:37 : VERIFY -> Verify instr.: (x, y) = (2,0)
+21.09.2022 11:55:37 : MOVE -> New values: map(x,y) = map(1,0)
+21.09.2022 11:55:37 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (1,0,24)
+21.09.2022 11:55:37 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:37 : INSTR. -> UpArrow
+21.09.2022 11:55:37 : VERIFY -> Verify instr.: (x, y) = (1,0)
+21.09.2022 11:55:37 : MOVE -> New values: map(x,y) = map(0,0)
+21.09.2022 11:55:37 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (0,0,24)
+21.09.2022 11:55:37 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:37 : INSTR. -> UpArrow
+21.09.2022 11:55:37 : VERIFY -> Verify instr.: (x, y) = (0,0)
+21.09.2022 11:55:37 : ERROR -> Out Of Bound
+21.09.2022 11:55:37 : INSTR. -> UpArrow
+21.09.2022 11:55:37 : VERIFY -> Verify instr.: (x, y) = (0,0)
+21.09.2022 11:55:37 : ERROR -> Out Of Bound
+21.09.2022 11:55:37 : INSTR. -> UpArrow
+21.09.2022 11:55:37 : VERIFY -> Verify instr.: (x, y) = (0,0)
+21.09.2022 11:55:37 : ERROR -> Out Of Bound
+21.09.2022 11:55:37 : INSTR. -> UpArrow
+21.09.2022 11:55:37 : VERIFY -> Verify instr.: (x, y) = (0,0)
+21.09.2022 11:55:37 : ERROR -> Out Of Bound
+21.09.2022 11:55:37 : INSTR. -> UpArrow
+21.09.2022 11:55:37 : VERIFY -> Verify instr.: (x, y) = (0,0)
+21.09.2022 11:55:37 : ERROR -> Out Of Bound
+21.09.2022 11:55:37 : INSTR. -> UpArrow
+21.09.2022 11:55:37 : VERIFY -> Verify instr.: (x, y) = (0,0)
+21.09.2022 11:55:37 : ERROR -> Out Of Bound
+21.09.2022 11:55:37 : INSTR. -> UpArrow
+21.09.2022 11:55:37 : VERIFY -> Verify instr.: (x, y) = (0,0)
+21.09.2022 11:55:37 : ERROR -> Out Of Bound
+21.09.2022 11:55:37 : INSTR. -> UpArrow
+21.09.2022 11:55:37 : VERIFY -> Verify instr.: (x, y) = (0,0)
+21.09.2022 11:55:37 : ERROR -> Out Of Bound
+21.09.2022 11:55:37 : INSTR. -> UpArrow
+21.09.2022 11:55:37 : VERIFY -> Verify instr.: (x, y) = (0,0)
+21.09.2022 11:55:37 : ERROR -> Out Of Bound
+21.09.2022 11:55:37 : INSTR. -> UpArrow
+21.09.2022 11:55:37 : VERIFY -> Verify instr.: (x, y) = (0,0)
+21.09.2022 11:55:37 : ERROR -> Out Of Bound
+21.09.2022 11:55:37 : INSTR. -> UpArrow
+21.09.2022 11:55:37 : VERIFY -> Verify instr.: (x, y) = (0,0)
+21.09.2022 11:55:37 : ERROR -> Out Of Bound
+21.09.2022 11:55:37 : INSTR. -> UpArrow
+21.09.2022 11:55:37 : VERIFY -> Verify instr.: (x, y) = (0,0)
+21.09.2022 11:55:37 : ERROR -> Out Of Bound
+21.09.2022 11:55:37 : INSTR. -> UpArrow
+21.09.2022 11:55:37 : VERIFY -> Verify instr.: (x, y) = (0,0)
+21.09.2022 11:55:37 : ERROR -> Out Of Bound
+21.09.2022 11:55:37 : INSTR. -> UpArrow
+21.09.2022 11:55:37 : VERIFY -> Verify instr.: (x, y) = (0,0)
+21.09.2022 11:55:37 : ERROR -> Out Of Bound
+21.09.2022 11:55:37 : INSTR. -> UpArrow
+21.09.2022 11:55:37 : VERIFY -> Verify instr.: (x, y) = (0,0)
+21.09.2022 11:55:37 : ERROR -> Out Of Bound
+21.09.2022 11:55:37 : INSTR. -> UpArrow
+21.09.2022 11:55:37 : VERIFY -> Verify instr.: (x, y) = (0,0)
+21.09.2022 11:55:37 : ERROR -> Out Of Bound
+21.09.2022 11:55:37 : INSTR. -> UpArrow
+21.09.2022 11:55:37 : VERIFY -> Verify instr.: (x, y) = (0,0)
+21.09.2022 11:55:37 : ERROR -> Out Of Bound
+21.09.2022 11:55:37 : INSTR. -> UpArrow
+21.09.2022 11:55:37 : VERIFY -> Verify instr.: (x, y) = (0,0)
+21.09.2022 11:55:37 : ERROR -> Out Of Bound
+21.09.2022 11:55:37 : INSTR. -> UpArrow
+21.09.2022 11:55:37 : VERIFY -> Verify instr.: (x, y) = (0,0)
+21.09.2022 11:55:37 : ERROR -> Out Of Bound
+21.09.2022 11:55:38 : INSTR. -> RightArrow
+21.09.2022 11:55:38 : CHG ORIENT. -> Change orientation: 26
+21.09.2022 11:55:38 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (0,0,26)
+21.09.2022 11:55:38 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:38 : INSTR. -> RightArrow
+21.09.2022 11:55:38 : VERIFY -> Verify instr.: (x, y) = (0,0)
+21.09.2022 11:55:38 : MOVE -> New values: map(x,y) = map(0,1)
+21.09.2022 11:55:38 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (0,1,26)
+21.09.2022 11:55:38 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:38 : INSTR. -> RightArrow
+21.09.2022 11:55:38 : VERIFY -> Verify instr.: (x, y) = (0,1)
+21.09.2022 11:55:38 : MOVE -> New values: map(x,y) = map(0,2)
+21.09.2022 11:55:38 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (0,2,26)
+21.09.2022 11:55:38 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:38 : INSTR. -> RightArrow
+21.09.2022 11:55:38 : VERIFY -> Verify instr.: (x, y) = (0,2)
+21.09.2022 11:55:38 : MOVE -> New values: map(x,y) = map(0,3)
+21.09.2022 11:55:38 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (0,3,26)
+21.09.2022 11:55:38 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:38 : INSTR. -> RightArrow
+21.09.2022 11:55:38 : VERIFY -> Verify instr.: (x, y) = (0,3)
+21.09.2022 11:55:38 : MOVE -> New values: map(x,y) = map(0,4)
+21.09.2022 11:55:38 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (0,4,26)
+21.09.2022 11:55:38 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:38 : INSTR. -> RightArrow
+21.09.2022 11:55:38 : VERIFY -> Verify instr.: (x, y) = (0,4)
+21.09.2022 11:55:38 : MOVE -> New values: map(x,y) = map(0,5)
+21.09.2022 11:55:38 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (0,5,26)
+21.09.2022 11:55:39 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:39 : INSTR. -> RightArrow
+21.09.2022 11:55:39 : VERIFY -> Verify instr.: (x, y) = (0,5)
+21.09.2022 11:55:39 : MOVE -> New values: map(x,y) = map(0,6)
+21.09.2022 11:55:39 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (0,6,26)
+21.09.2022 11:55:39 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:39 : INSTR. -> RightArrow
+21.09.2022 11:55:39 : VERIFY -> Verify instr.: (x, y) = (0,6)
+21.09.2022 11:55:39 : MOVE -> New values: map(x,y) = map(0,7)
+21.09.2022 11:55:39 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (0,7,26)
+21.09.2022 11:55:39 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:39 : INSTR. -> RightArrow
+21.09.2022 11:55:39 : VERIFY -> Verify instr.: (x, y) = (0,7)
+21.09.2022 11:55:39 : MOVE -> New values: map(x,y) = map(0,8)
+21.09.2022 11:55:39 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (0,8,26)
+21.09.2022 11:55:39 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:39 : INSTR. -> RightArrow
+21.09.2022 11:55:39 : VERIFY -> Verify instr.: (x, y) = (0,8)
+21.09.2022 11:55:39 : MOVE -> New values: map(x,y) = map(0,9)
+21.09.2022 11:55:39 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (0,9,26)
+21.09.2022 11:55:39 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:39 : INSTR. -> RightArrow
+21.09.2022 11:55:39 : VERIFY -> Verify instr.: (x, y) = (0,9)
+21.09.2022 11:55:39 : MOVE -> New values: map(x,y) = map(0,10)
+21.09.2022 11:55:39 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (0,10,26)
+21.09.2022 11:55:39 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:39 : INSTR. -> RightArrow
+21.09.2022 11:55:39 : VERIFY -> Verify instr.: (x, y) = (0,10)
+21.09.2022 11:55:39 : MOVE -> New values: map(x,y) = map(0,11)
+21.09.2022 11:55:39 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (0,11,26)
+21.09.2022 11:55:39 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:39 : INSTR. -> RightArrow
+21.09.2022 11:55:39 : VERIFY -> Verify instr.: (x, y) = (0,11)
+21.09.2022 11:55:39 : MOVE -> New values: map(x,y) = map(0,12)
+21.09.2022 11:55:39 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (0,12,26)
+21.09.2022 11:55:39 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:39 : INSTR. -> RightArrow
+21.09.2022 11:55:39 : VERIFY -> Verify instr.: (x, y) = (0,12)
+21.09.2022 11:55:39 : MOVE -> New values: map(x,y) = map(0,13)
+21.09.2022 11:55:39 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (0,13,26)
+21.09.2022 11:55:39 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:39 : INSTR. -> RightArrow
+21.09.2022 11:55:39 : VERIFY -> Verify instr.: (x, y) = (0,13)
+21.09.2022 11:55:39 : MOVE -> New values: map(x,y) = map(0,14)
+21.09.2022 11:55:39 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (0,14,26)
+21.09.2022 11:55:39 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:39 : INSTR. -> RightArrow
+21.09.2022 11:55:39 : VERIFY -> Verify instr.: (x, y) = (0,14)
+21.09.2022 11:55:39 : ERROR -> Out Of Bound
+21.09.2022 11:55:39 : INSTR. -> RightArrow
+21.09.2022 11:55:39 : VERIFY -> Verify instr.: (x, y) = (0,14)
+21.09.2022 11:55:39 : ERROR -> Out Of Bound
+21.09.2022 11:55:39 : INSTR. -> RightArrow
+21.09.2022 11:55:39 : VERIFY -> Verify instr.: (x, y) = (0,14)
+21.09.2022 11:55:39 : ERROR -> Out Of Bound
+21.09.2022 11:55:39 : INSTR. -> RightArrow
+21.09.2022 11:55:39 : VERIFY -> Verify instr.: (x, y) = (0,14)
+21.09.2022 11:55:39 : ERROR -> Out Of Bound
+21.09.2022 11:55:39 : INSTR. -> RightArrow
+21.09.2022 11:55:39 : VERIFY -> Verify instr.: (x, y) = (0,14)
+21.09.2022 11:55:39 : ERROR -> Out Of Bound
+21.09.2022 11:55:39 : INSTR. -> RightArrow
+21.09.2022 11:55:39 : VERIFY -> Verify instr.: (x, y) = (0,14)
+21.09.2022 11:55:39 : ERROR -> Out Of Bound
+21.09.2022 11:55:39 : INSTR. -> RightArrow
+21.09.2022 11:55:39 : VERIFY -> Verify instr.: (x, y) = (0,14)
+21.09.2022 11:55:39 : ERROR -> Out Of Bound
+21.09.2022 11:55:39 : INSTR. -> RightArrow
+21.09.2022 11:55:39 : VERIFY -> Verify instr.: (x, y) = (0,14)
+21.09.2022 11:55:39 : ERROR -> Out Of Bound
+21.09.2022 11:55:39 : INSTR. -> RightArrow
+21.09.2022 11:55:39 : VERIFY -> Verify instr.: (x, y) = (0,14)
+21.09.2022 11:55:39 : ERROR -> Out Of Bound
+21.09.2022 11:55:39 : INSTR. -> RightArrow
+21.09.2022 11:55:39 : VERIFY -> Verify instr.: (x, y) = (0,14)
+21.09.2022 11:55:39 : ERROR -> Out Of Bound
+21.09.2022 11:55:39 : INSTR. -> RightArrow
+21.09.2022 11:55:39 : VERIFY -> Verify instr.: (x, y) = (0,14)
+21.09.2022 11:55:39 : ERROR -> Out Of Bound
+21.09.2022 11:55:39 : INSTR. -> RightArrow
+21.09.2022 11:55:39 : VERIFY -> Verify instr.: (x, y) = (0,14)
+21.09.2022 11:55:39 : ERROR -> Out Of Bound
+21.09.2022 11:55:40 : INSTR. -> RightArrow
+21.09.2022 11:55:40 : VERIFY -> Verify instr.: (x, y) = (0,14)
+21.09.2022 11:55:40 : ERROR -> Out Of Bound
+21.09.2022 11:55:41 : INSTR. -> DownArrow
+21.09.2022 11:55:41 : CHG ORIENT. -> Change orientation: 25
+21.09.2022 11:55:41 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (0,14,25)
+21.09.2022 11:55:41 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:41 : INSTR. -> DownArrow
+21.09.2022 11:55:41 : VERIFY -> Verify instr.: (x, y) = (0,14)
+21.09.2022 11:55:41 : MOVE -> New values: map(x,y) = map(1,14)
+21.09.2022 11:55:41 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (1,14,25)
+21.09.2022 11:55:41 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:41 : INSTR. -> DownArrow
+21.09.2022 11:55:41 : VERIFY -> Verify instr.: (x, y) = (1,14)
+21.09.2022 11:55:41 : MOVE -> New values: map(x,y) = map(2,14)
+21.09.2022 11:55:41 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,14,25)
+21.09.2022 11:55:41 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:41 : INSTR. -> DownArrow
+21.09.2022 11:55:41 : VERIFY -> Verify instr.: (x, y) = (2,14)
+21.09.2022 11:55:41 : MOVE -> New values: map(x,y) = map(3,14)
+21.09.2022 11:55:41 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (3,14,25)
+21.09.2022 11:55:41 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:41 : INSTR. -> DownArrow
+21.09.2022 11:55:41 : VERIFY -> Verify instr.: (x, y) = (3,14)
+21.09.2022 11:55:41 : MOVE -> New values: map(x,y) = map(4,14)
+21.09.2022 11:55:41 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (4,14,25)
+21.09.2022 11:55:41 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:41 : INSTR. -> DownArrow
+21.09.2022 11:55:41 : VERIFY -> Verify instr.: (x, y) = (4,14)
+21.09.2022 11:55:41 : MOVE -> New values: map(x,y) = map(5,14)
+21.09.2022 11:55:41 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (5,14,25)
+21.09.2022 11:55:42 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:42 : INSTR. -> DownArrow
+21.09.2022 11:55:42 : VERIFY -> Verify instr.: (x, y) = (5,14)
+21.09.2022 11:55:42 : MOVE -> New values: map(x,y) = map(6,14)
+21.09.2022 11:55:42 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (6,14,25)
+21.09.2022 11:55:42 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:42 : INSTR. -> DownArrow
+21.09.2022 11:55:42 : VERIFY -> Verify instr.: (x, y) = (6,14)
+21.09.2022 11:55:42 : MOVE -> New values: map(x,y) = map(7,14)
+21.09.2022 11:55:42 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (7,14,25)
+21.09.2022 11:55:42 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:42 : INSTR. -> DownArrow
+21.09.2022 11:55:42 : VERIFY -> Verify instr.: (x, y) = (7,14)
+21.09.2022 11:55:42 : MOVE -> New values: map(x,y) = map(8,14)
+21.09.2022 11:55:42 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (8,14,25)
+21.09.2022 11:55:42 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:42 : INSTR. -> LeftArrow
+21.09.2022 11:55:42 : CHG ORIENT. -> Change orientation: 27
+21.09.2022 11:55:42 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (8,14,27)
+21.09.2022 11:55:43 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:43 : INSTR. -> LeftArrow
+21.09.2022 11:55:43 : VERIFY -> Verify instr.: (x, y) = (8,14)
+21.09.2022 11:55:43 : MOVE -> New values: map(x,y) = map(8,13)
+21.09.2022 11:55:43 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (8,13,27)
+21.09.2022 11:55:43 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:43 : INSTR. -> LeftArrow
+21.09.2022 11:55:43 : VERIFY -> Verify instr.: (x, y) = (8,13)
+21.09.2022 11:55:43 : MOVE -> New values: map(x,y) = map(8,12)
+21.09.2022 11:55:43 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (8,12,27)
+21.09.2022 11:55:43 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:43 : INSTR. -> LeftArrow
+21.09.2022 11:55:43 : VERIFY -> Verify instr.: (x, y) = (8,12)
+21.09.2022 11:55:43 : MOVE -> New values: map(x,y) = map(8,11)
+21.09.2022 11:55:43 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (8,11,27)
+21.09.2022 11:55:43 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:43 : INSTR. -> LeftArrow
+21.09.2022 11:55:43 : VERIFY -> Verify instr.: (x, y) = (8,11)
+21.09.2022 11:55:43 : MOVE -> New values: map(x,y) = map(8,10)
+21.09.2022 11:55:43 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (8,10,27)
+21.09.2022 11:55:43 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:43 : INSTR. -> LeftArrow
+21.09.2022 11:55:43 : VERIFY -> Verify instr.: (x, y) = (8,10)
+21.09.2022 11:55:43 : MOVE -> New values: map(x,y) = map(8,9)
+21.09.2022 11:55:43 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (8,9,27)
+21.09.2022 11:55:43 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:43 : INSTR. -> LeftArrow
+21.09.2022 11:55:43 : VERIFY -> Verify instr.: (x, y) = (8,9)
+21.09.2022 11:55:43 : MOVE -> New values: map(x,y) = map(8,8)
+21.09.2022 11:55:43 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (8,8,27)
+21.09.2022 11:55:43 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:43 : INSTR. -> LeftArrow
+21.09.2022 11:55:43 : VERIFY -> Verify instr.: (x, y) = (8,8)
+21.09.2022 11:55:43 : MOVE -> New values: map(x,y) = map(8,7)
+21.09.2022 11:55:43 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (8,7,27)
+21.09.2022 11:55:44 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:44 : INSTR. -> UpArrow
+21.09.2022 11:55:44 : CHG ORIENT. -> Change orientation: 24
+21.09.2022 11:55:44 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (8,7,24)
+21.09.2022 11:55:44 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:44 : INSTR. -> UpArrow
+21.09.2022 11:55:44 : VERIFY -> Verify instr.: (x, y) = (8,7)
+21.09.2022 11:55:44 : MOVE -> New values: map(x,y) = map(7,7)
+21.09.2022 11:55:44 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (7,7,24)
+21.09.2022 11:55:44 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:44 : INSTR. -> UpArrow
+21.09.2022 11:55:44 : VERIFY -> Verify instr.: (x, y) = (7,7)
+21.09.2022 11:55:44 : MOVE -> New values: map(x,y) = map(6,7)
+21.09.2022 11:55:44 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (6,7,24)
+21.09.2022 11:55:44 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:44 : INSTR. -> UpArrow
+21.09.2022 11:55:44 : VERIFY -> Verify instr.: (x, y) = (6,7)
+21.09.2022 11:55:44 : MOVE -> New values: map(x,y) = map(5,7)
+21.09.2022 11:55:44 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (5,7,24)
+21.09.2022 11:55:44 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:45 : INSTR. -> UpArrow
+21.09.2022 11:55:45 : VERIFY -> Verify instr.: (x, y) = (5,7)
+21.09.2022 11:55:45 : MOVE -> New values: map(x,y) = map(4,7)
+21.09.2022 11:55:45 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (4,7,24)
+21.09.2022 11:55:45 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:45 : INSTR. -> UpArrow
+21.09.2022 11:55:45 : VERIFY -> Verify instr.: (x, y) = (4,7)
+21.09.2022 11:55:45 : MOVE -> New values: map(x,y) = map(3,7)
+21.09.2022 11:55:45 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (3,7,24)
+21.09.2022 11:55:45 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:45 : INSTR. -> UpArrow
+21.09.2022 11:55:45 : VERIFY -> Verify instr.: (x, y) = (3,7)
+21.09.2022 11:55:45 : MOVE -> New values: map(x,y) = map(2,7)
+21.09.2022 11:55:45 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,7,24)
+21.09.2022 11:55:45 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:45 : INSTR. -> RightArrow
+21.09.2022 11:55:45 : CHG ORIENT. -> Change orientation: 26
+21.09.2022 11:55:45 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,7,26)
+21.09.2022 11:55:45 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:46 : INSTR. -> RightArrow
+21.09.2022 11:55:46 : VERIFY -> Verify instr.: (x, y) = (2,7)
+21.09.2022 11:55:46 : MOVE -> New values: map(x,y) = map(2,8)
+21.09.2022 11:55:46 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,8,26)
+21.09.2022 11:55:46 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:46 : INSTR. -> RightArrow
+21.09.2022 11:55:46 : VERIFY -> Verify instr.: (x, y) = (2,8)
+21.09.2022 11:55:46 : MOVE -> New values: map(x,y) = map(2,9)
+21.09.2022 11:55:46 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,9,26)
+21.09.2022 11:55:46 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:46 : INSTR. -> RightArrow
+21.09.2022 11:55:46 : VERIFY -> Verify instr.: (x, y) = (2,9)
+21.09.2022 11:55:46 : MOVE -> New values: map(x,y) = map(2,10)
+21.09.2022 11:55:46 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,10,26)
+21.09.2022 11:55:46 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:46 : INSTR. -> RightArrow
+21.09.2022 11:55:46 : VERIFY -> Verify instr.: (x, y) = (2,10)
+21.09.2022 11:55:46 : MOVE -> New values: map(x,y) = map(2,11)
+21.09.2022 11:55:46 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,11,26)
+21.09.2022 11:55:46 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:46 : INSTR. -> RightArrow
+21.09.2022 11:55:46 : VERIFY -> Verify instr.: (x, y) = (2,11)
+21.09.2022 11:55:46 : MOVE -> New values: map(x,y) = map(2,12)
+21.09.2022 11:55:46 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,12,26)
+21.09.2022 11:55:46 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:47 : INSTR. -> RightArrow
+21.09.2022 11:55:47 : VERIFY -> Verify instr.: (x, y) = (2,12)
+21.09.2022 11:55:47 : MOVE -> New values: map(x,y) = map(2,13)
+21.09.2022 11:55:47 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,13,26)
+21.09.2022 11:55:47 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:47 : INSTR. -> DownArrow
+21.09.2022 11:55:47 : CHG ORIENT. -> Change orientation: 25
+21.09.2022 11:55:47 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (2,13,25)
+21.09.2022 11:55:47 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:47 : INSTR. -> DownArrow
+21.09.2022 11:55:47 : VERIFY -> Verify instr.: (x, y) = (2,13)
+21.09.2022 11:55:47 : MOVE -> New values: map(x,y) = map(3,13)
+21.09.2022 11:55:47 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (3,13,25)
+21.09.2022 11:55:47 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:47 : INSTR. -> DownArrow
+21.09.2022 11:55:47 : VERIFY -> Verify instr.: (x, y) = (3,13)
+21.09.2022 11:55:47 : MOVE -> New values: map(x,y) = map(4,13)
+21.09.2022 11:55:47 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (4,13,25)
+21.09.2022 11:55:48 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:48 : INSTR. -> DownArrow
+21.09.2022 11:55:48 : VERIFY -> Verify instr.: (x, y) = (4,13)
+21.09.2022 11:55:48 : MOVE -> New values: map(x,y) = map(5,13)
+21.09.2022 11:55:48 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (5,13,25)
+21.09.2022 11:55:48 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:48 : INSTR. -> DownArrow
+21.09.2022 11:55:48 : VERIFY -> Verify instr.: (x, y) = (5,13)
+21.09.2022 11:55:48 : MOVE -> New values: map(x,y) = map(6,13)
+21.09.2022 11:55:48 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (6,13,25)
+21.09.2022 11:55:48 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:48 : INSTR. -> DownArrow
+21.09.2022 11:55:48 : VERIFY -> Verify instr.: (x, y) = (6,13)
+21.09.2022 11:55:48 : MOVE -> New values: map(x,y) = map(7,13)
+21.09.2022 11:55:48 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (7,13,25)
+21.09.2022 11:55:48 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:48 : INSTR. -> DownArrow
+21.09.2022 11:55:48 : VERIFY -> Verify instr.: (x, y) = (7,13)
+21.09.2022 11:55:48 : MOVE -> New values: map(x,y) = map(8,13)
+21.09.2022 11:55:48 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (8,13,25)
+21.09.2022 11:55:48 : CHANGE ORT.  -> PrintMap
+21.09.2022 11:55:48 : INSTR. -> DownArrow
+21.09.2022 11:55:48 : VERIFY -> Verify instr.: (x, y) = (8,13)
+21.09.2022 11:55:48 : MOVE -> New values: map(x,y) = map(9,13)
+21.09.2022 11:55:48 : CHANGE ORT. -> Update map with obj positions: (x, y, orientation) = (9,13,25)
+21.09.2022 11:55:48 : CHANGE ORT.  -> PrintMap

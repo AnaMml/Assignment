@@ -16,16 +16,16 @@ namespace Assigment.Controller
         private readonly Log _logFile;
         private readonly IPrinterCreator _printerFactory;
 
-        public ProgramManager(Map map, Log logFile, int i)
+        public ProgramManager(Map map, Log logFile)
         {
             _map = map;
             _rover = new Rover(map.GetNoRows(),map.GetNoCols());
             _logFile = logFile;
 
-            if (i == 1)
-                _printerFactory = new PrinterConsoleCreator();
-            else
+            if (DateTime.Now.DayOfWeek == DayOfWeek.Saturday || DateTime.Now.DayOfWeek == DayOfWeek.Sunday)
                 _printerFactory = new PrinterTxtCreator();
+            else
+                _printerFactory = new PrinterConsoleCreator();
         }
 
         public void StartProgram()

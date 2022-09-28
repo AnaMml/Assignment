@@ -9,11 +9,13 @@ int LimitX = Int32.Parse(Console.ReadLine());
 Console.Write("LimitY = ");
 int LimitY = Int32.Parse(Console.ReadLine());
 
-
-
 Map map = new Map(LimitX, LimitY);
-Log logFile = new Log("D:\\Assignment\\logFile.txt"); 
-IProgramManager pm = new ProgramManager(map, logFile,2);
+
+string filePath = Directory.GetCurrentDirectory();
+filePath = Path.Combine(filePath, "logFile.txt");
+Log logFile = new Log(filePath); 
+
+IProgramManager pm = new ProgramManager(map, logFile);
 
 List<Position> positions = new List<Position>();
 
